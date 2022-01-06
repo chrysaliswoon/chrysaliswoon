@@ -19,9 +19,9 @@ Fullstack Development
 <br>
 
 ## 📫 How to reach me:
-Catch me over on Twitter - https://twitter.com/chrysaliswoon
+Catch me over on Twitter - https://twitter.com/chrysaliswoon 
+<br>
 Check out my portfolio over here - https://chrysaliswoon.github.io/
-
 <br>
 
 ## My GitHub Stats:
