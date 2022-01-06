@@ -14,12 +14,13 @@ completing my General Assembly program & Harvard's CS50 Computer Science program
 <br>
 
 ## 🌱 I’m currently learning
-Fullstack Development & Data Analytics
+Fullstack Development
 
 <br>
 
 ## 📫 How to reach me:
 Catch me over on Twitter - https://twitter.com/chrysaliswoon
+Check out my portfolio over here - https://chrysaliswoon.github.io/
 
 <br>
 
