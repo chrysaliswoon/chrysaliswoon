@@ -9,7 +9,7 @@ Currently I am seeking opportunities that will allow me to play a key role in id
 <br>
 
 ## :computer: I’m currently working on
-completing my General Assembly program & Harvard's CS50 Computer Science program
+completing General Assembly Software Engineering Immersive & Harvard's CS50 Computer Science program
 
 <br>
 
@@ -21,7 +21,7 @@ Fullstack Development
 ## 📫 How to reach me:
 Catch me over on Twitter - https://twitter.com/chrysaliswoon 
 <br>
-Check out my portfolio over here - https://chrysaliswoon.github.io/
+Check out my portfolio over here - https://chrysaliswoon.vercel.app/
 <br>
 
 ## My GitHub Stats:
