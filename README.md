@@ -1,6 +1,6 @@
-## Hey There! I'm Chrysalis :wave:	
+# Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a Learning & Instructional Designer focused on developing programming centric courses and programs for students ages 5 and above for online and offline purposes. I am currently going more towards the Tech side of things in the EdTech world by attending General Assembly's Software Engineering program. 
+Nice to meet you! My name is Chrysalis and I'm a Learning & Instructional Designer focused on developing programming centric courses and programs for students ages 5 and above for online and offline purposes. I am currently going more towards the Tech side of things in the EdTech world by attending General Assembly's Software Engineering program. 
 
 My expertise include deep understanding of various learning models, project management skills, visual and artistic talents, and assessment development. 
 
@@ -34,9 +34,10 @@ completing General Assembly Software Engineering Immersive & Harvard's CS50 Comp
 <img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/email.png?raw=true"> <a href="https://www.linkedin.com/in/chrysalis-woon-38376198/"> Drop me a message at LinkedIn </a>
 <br><br>
 
-## My GitHub Stats:
+## My GitHub Statistics:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrysaliswoon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrysaliswoon&show_icons=true&theme=buefy)
+ &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrysaliswoon&layout=compact)](https://github.com/chrysaliswoon/github-readme-stats)
 
-## Programming Languages I Use:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrysaliswoon)](https://github.com/chrysaliswoon/github-readme-stats)
+
+
