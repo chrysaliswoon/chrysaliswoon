@@ -26,7 +26,7 @@ Fullstack Development
 <br>
 
 ## 📫 How to reach me:
-Catch me over on Twitter - https://twitter.com/chrysaliswoon 
+[1.2]: http://i.imgur.com/wWzX9uB.png https://twitter.com/chrysaliswoon 
 <br>
 Check out my portfolio over here - https://chrysaliswoon.vercel.app/
 <br>
