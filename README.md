@@ -18,6 +18,13 @@ Fullstack Development
 
 <br>
 
+
+## 💻 On the lookout for the following roles:
+- Product Manager
+- Fontend Software Engineer
+
+<br>
+
 ## 📫 How to reach me:
 Catch me over on Twitter - https://twitter.com/chrysaliswoon 
 <br>
