@@ -19,18 +19,19 @@ completing General Assembly Software Engineering Immersive & Harvard's CS50 Comp
 <br>
 
 
-## 💻 On the lookout for the following roles:
+## On the lookout for the following roles:
 - Product Manager
 - Fontend Software Engineer
 
 <br>
 
-## 📫 How to reach me:
+## How to reach me:
 
-<li><img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/twitter.png?raw=true"/><a href="https://twitter.com/chrysaliswoon"> Visit my Twitter profile </a></li>
+<img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/web.png?raw=true"/><a href="https://chrysaliswoon.vercel.app/"> Check out my portfolio </a>
 
-<li><img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/twitter.png?raw=true"/><a href="https://chrysaliswoon.vercel.app/"> Check out my portfolio </a></li>
+<img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/twitter.png?raw=true"/><a href="https://twitter.com/chrysaliswoon"> Visit my Twitter profile </a>
 
+<img height="20" width="20" src="https://www.linkedin.com/in/chrysalis-woon-38376198/"> Drop me a message at LinkedIn </a>
 
 <br><br>
 
