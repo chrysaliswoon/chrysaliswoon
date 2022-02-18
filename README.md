@@ -27,3 +27,6 @@ Check out my portfolio over here - https://chrysaliswoon.vercel.app/
 ## My GitHub Stats:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrysaliswoon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+## Programming Languages I Use:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrysaliswoon)](https://github.com/chrysaliswoon/github-readme-stats)
