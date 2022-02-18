@@ -14,7 +14,7 @@ completing General Assembly Software Engineering Immersive & Harvard's CS50 Comp
 <br>
 
 ## 🌱 I’m currently learning
-Fullstack Development
+- Fullstack Development
 
 <br>
 
@@ -26,14 +26,17 @@ Fullstack Development
 <br>
 
 ## 📫 How to reach me:
-![](http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png) https://twitter.com/chrysaliswoon 
-<br>
-Check out my portfolio over here - https://chrysaliswoon.vercel.app/
-<br>
+
+<li><img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/twitter.png?raw=true"/><a href="https://twitter.com/chrysaliswoon"> Visit my Twitter profile </a></li>
+
+<li><img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/twitter.png?raw=true"/><a href="https://chrysaliswoon.vercel.app/"> Check out my portfolio </a></li>
+
+
+<br><br>
 
 ## My GitHub Stats:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrysaliswoon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrysaliswoon&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
 ## Programming Languages I Use:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrysaliswoon)](https://github.com/chrysaliswoon/github-readme-stats)
