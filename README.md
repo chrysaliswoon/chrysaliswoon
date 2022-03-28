@@ -27,7 +27,7 @@ completing General Assembly Software Engineering Immersive & Harvard's CS50 Comp
 
 ## How to reach me:
 
-<img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/web.png?raw=true"/><a href="https://chrysaliswoon.vercel.app/"> Check out my portfolio </a>
+<img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/web.png?raw=true"/><a href="https://chrysalis-portfolio.vercel.app/"> Check out my portfolio </a>
 
 <img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/twitter.png?raw=true"/><a href="https://twitter.com/chrysaliswoon"> Visit my Twitter profile </a>
 
