@@ -7,13 +7,15 @@ Currently I am seeking opportunities that will allow me to play a key role in id
 <br>
 
 ## :computer: I’m currently working on
-completing Harvard's CS50 Computer Science program
+- completing Harvard's CS50 Computer Science program
+- learning algorithms and data structures
 
 <br>
 
 ## 🌱 I’m currently learning
-- Fullstack Development
-- SpringBoot
+- MERN Stack
+- MEAN Stack
+- PERN Stack
 
 <br>
 
