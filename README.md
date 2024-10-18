@@ -2,7 +2,7 @@ Here’s a polished version of your GitHub README that presents your information
 
 ---
 
-![Introduction](https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/logo.gif)
+![Introduction](https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/logo.gif)
 
 Hello! I’m Chrysalis, a passionate software developer and DevOps enthusiast with a strong foundation in cloud computing and automation. I specialize in leveraging technologies such as AWS and Docker to build efficient, scalable systems. My experience spans across various programming languages and frameworks, enabling me to contribute effectively to full-stack development and DevOps practices.
 
