@@ -41,9 +41,9 @@ I am particularly interested in the following roles:
 ## 📫 Connect with Me
 Feel free to reach out through the following platforms:
 
-- 🌐 [My Portfolio](https://chrysalis-portfolio.vercel.app/) ![Website Icon](https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/web.png?raw=true)
-- 🐦 [Twitter](https://twitter.com/chrysaliswoon) ![Twitter Icon](https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/twitter.png?raw=true)
-- 💼 [LinkedIn](https://www.linkedin.com/in/chrysalis-woon-38376198/) ![LinkedIn Icon](https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/email.png?raw=true)
+- 🌐 [My Portfolio](https://chrysalis-portfolio.vercel.app/)
+- 🐦 [Twitter](https://twitter.com/chrysaliswoon)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chrysalis-woon-38376198/)
 
 ---
 
