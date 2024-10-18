@@ -1,46 +1,53 @@
-# Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Here’s a polished version of your GitHub README that presents your information in a clear, engaging manner:
 
-Nice to meet you! My name is Chrysalis and my expertise include deep understanding of various learning models, project management skills, visual and artistic talents, and assessment development. 
+---
 
-Currently I am seeking opportunities that will allow me to play a key role in identifying, designing, and incorporating appropriate Edtech plans, tools and programs into a school's learning environment. This includes any role related to project or product management in the Education and/or Technology sector.
+# 👋 Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<br>
+Hello! I’m Chrysalis, a passionate software developer and DevOps enthusiast with a strong foundation in cloud computing and automation. I specialize in leveraging technologies such as AWS and Docker to build efficient, scalable systems. My experience spans across various programming languages and frameworks, enabling me to contribute effectively to full-stack development and DevOps practices.
 
-## :computer: Current Certification Progress
+I am currently exploring opportunities where I can apply my skills in continuous integration and deployment, infrastructure as code, and collaborative software development to drive impactful solutions in the tech industry.
+
+---
+
+## 🏆 Current Certification Progress
+I am continuously working on enhancing my skill set. Here’s what I’m currently pursuing:
 - [ ] ITIL 4 Foundation
-- [ ] Harvard's CS50 Computer Science program
+- [ ] Harvard's CS50 Computer Science Program
 - [ ] AWS Cloud Practitioner
 - [ ] Google Cloud Fundamentals: Core Infrastructure
 - [ ] Docker Essentials: A Developer Introduction
 
-<br>
+---
 
-## 🌱 Current Tech Stacks Progress
+## 🌱 Tech Skills in Progress
+Here are some of the technologies I'm working with:
 - [X] REACT
-- [X] MERN
-- [X] MEAN
+- [X] MERN Stack
+- [X] MEAN Stack
 - [X] Python
 - [ ] Ruby on Rails
-<br>
 
+---
 
-## On the lookout for the following roles:
+## 🚀 Looking for Opportunities
+I am particularly interested in the following roles:
 - Product Manager
-- Fontend Software Engineer
-- Fullstack Developer
+- Frontend Software Engineer
+- Full Stack Developer
 
-<br>
+---
 
-## How to reach me:
+## 📫 Connect with Me
+Feel free to reach out through the following platforms:
 
-<img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/web.png?raw=true"/><a href="https://chrysalis-portfolio.vercel.app/"> Check out my portfolio </a>
+- 🌐 [My Portfolio](https://chrysalis-portfolio.vercel.app/) ![Website Icon](https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/web.png?raw=true)
+- 🐦 [Twitter](https://twitter.com/chrysaliswoon) ![Twitter Icon](https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/twitter.png?raw=true)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chrysalis-woon-38376198/) ![LinkedIn Icon](https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/email.png?raw=true)
 
-<img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/twitter.png?raw=true"/><a href="https://twitter.com/chrysaliswoon"> Visit my Twitter profile </a>
+---
 
-<img height="20" width="20" src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/email.png?raw=true"> <a href="https://www.linkedin.com/in/chrysalis-woon-38376198/"> Drop me a message at LinkedIn </a>
-<br><br>
-
-## My GitHub Statistics:
+## 📊 GitHub Statistics
 
 ![chrysaliswoon's Stats](https://github-readme-stats.vercel.app/api?username=chrysaliswoon&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 ![chrysaliswoon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chrysaliswoon&theme=tokyonight&hide_border=true)
