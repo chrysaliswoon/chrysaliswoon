@@ -6,17 +6,21 @@ Currently I am seeking opportunities that will allow me to play a key role in id
 
 <br>
 
-## :computer: I’m currently working on
-- completing Harvard's CS50 Computer Science program
-- learning algorithms and data structures
+## :computer: Current Certification Progress
+- [ ] ITIL 4 Foundation
+- [ ] Harvard's CS50 Computer Science program
+- [ ] AWS Cloud Practitioner
+- [ ] Google Cloud Fundamentals: Core Infrastructure
+- [ ] Docker Essentials: A Developer Introduction
 
 <br>
 
-## 🌱 I’m currently learning
-- MERN Stack
-- MEAN Stack
-- PERN Stack
-
+## 🌱 Current Tech Stacks Progress
+- [X] REACT
+- [X] MERN
+- [X] MEAN
+- [X] Python
+- [ ] Ruby on Rails
 <br>
 
 
