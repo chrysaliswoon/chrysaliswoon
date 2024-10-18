@@ -39,4 +39,5 @@ Currently I am seeking opportunities that will allow me to play a key role in id
 ## My GitHub Statistics:
 
 ![chrysaliswoon's Stats](https://github-readme-stats.vercel.app/api?username=chrysaliswoon&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
- &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrysaliswoon&layout=compact)](https://github.com/chrysaliswoon/github-readme-stats)
+![chrysaliswoon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chrysaliswoon&theme=tokyonight&hide_border=true)
+![chrysaliswoon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrysaliswoon&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
