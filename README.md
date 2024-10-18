@@ -1,6 +1,3 @@
-Here’s a polished version of your GitHub README that presents your information in a clear, engaging manner:
-
----
 <p align="center">
     <img src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/logo.gif?raw=true" alt="Logo" width="300">
 </p>
