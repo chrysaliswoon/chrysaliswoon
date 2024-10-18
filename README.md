@@ -1,8 +1,10 @@
 Here’s a polished version of your GitHub README that presents your information in a clear, engaging manner:
 
 ---
+<p align="center">
+    <img src="https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/logo.gif?raw=true" alt="Logo" width="300">
+</p>
 
-![Introduction](https://github.com/chrysaliswoon/chrysaliswoon/blob/main/Image%20Assets/logo.gif)
 
 Hello! I’m Chrysalis, a passionate software developer and DevOps enthusiast with a strong foundation in cloud computing and automation. I specialize in leveraging technologies such as AWS and Docker to build efficient, scalable systems. My experience spans across various programming languages and frameworks, enabling me to contribute effectively to full-stack development and DevOps practices.
 
